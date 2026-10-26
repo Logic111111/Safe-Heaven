@@ -1,0 +1,9 @@
+.gradle/
+build/
+local.properties
+*.iml
+.idea/
+app/release/
+*.jks
+supabase/.temp/
+supabase/.env
